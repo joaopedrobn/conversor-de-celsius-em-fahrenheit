@@ -1,5 +1,63 @@
-um conversor simples feito em c++ que converte uma temperatura em Celsius para Fahrenheit
+# 🌡️ Conversor de Celsius para Fahrenheit
 
-exemplo:
+Este projeto é um programa em C++ que converte uma temperatura fornecida em graus Celsius para Fahrenheit.
 
-![Screenshot_5](https://github.com/jrlkfps/calculadora-de-divisao/assets/131707703/2ed5a7de-a1e0-4ca6-8581-ceb6a6ed52df)
+## 📝 Descrição
+
+O programa solicita ao usuário que insira uma temperatura em graus Celsius e, em seguida, converte essa temperatura para graus Fahrenheit utilizando a fórmula:
+
+\[ \text{Fahrenheit} = \text{Celsius} \times \frac{9}{5} + 32 \]
+
+## 🛠️ Como Compilar e Executar
+
+1. **📥 Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/joaopedrobn/conversor-de-celsius-em-fahrenheit.git
+   ```
+
+2. **📂 Navegue até o diretório do projeto:**
+
+   ```bash
+   cd conversor-de-celsius-em-fahrenheit
+   ```
+
+3. **⚙️ Compile o código-fonte:**
+
+   Utilize um compilador C++, como o `g++`, para compilar o arquivo `conversor.cpp`:
+
+   ```bash
+   g++ conversor.cpp -o conversor_celsius_fahrenheit
+   ```
+
+4. **▶️ Execute o programa:**
+
+   ```bash
+   ./conversor_celsius_fahrenheit
+   ```
+
+## 📋 Exemplo de Uso
+
+Ao executar o programa, você será solicitado a inserir uma temperatura em graus Celsius:
+
+```
+Digite a temperatura em Celsius: 25
+```
+
+O programa calculará e exibirá a temperatura correspondente em Fahrenheit:
+
+```
+A temperatura em Fahrenheit é: 77°F
+```
+
+## 🖼️ Captura de Tela
+
+![Exemplo de Conversão](https://github.com/joaopedrobn/conversor-de-celsius-em-fahrenheit/raw/main/Screenshot_5.png)
+*Exemplo de conversão de 25°C para 77°F*
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+---
+📌 Para mais informações, visite o repositório original: [conversor-de-celsius-em-fahrenheit](https://github.com/joaopedrobn/conversor-de-celsius-em-fahrenheit).
