@@ -50,9 +50,5 @@ O programa calculará e exibirá a temperatura correspondente em Fahrenheit:
 A temperatura em Fahrenheit é: 77°F
 ```
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
-
 ---
 📌 Para mais informações, visite o repositório original: [conversor-de-celsius-em-fahrenheit](https://github.com/joaopedrobn/conversor-de-celsius-em-fahrenheit).
